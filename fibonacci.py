@@ -1,5 +1,5 @@
 def fibonacci(n):
-    print('Hello user')
+    print(f"you are printing the {n}th term of the fibonacci sequence!")
     if n <= 1:
         return n
     else:
